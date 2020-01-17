@@ -26,15 +26,17 @@ ActiveLogin.Identity provides parsing and validation of Swedish identities such 
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://dev.azure.com/orneholm/Orneholm.SverigesRadio/_apis/build/status/Orneholm.SverigesRadio?branchName=master)](https://dev.azure.com/orneholm/Orneholm.SverigesRadio/_build/latest?definitionId=3&branchName=master)
 [![NuGet](https://img.shields.io/nuget/v/Orneholm.SverigesRadio.Api.svg)](https://www.nuget.org/packages/Orneholm.SverigesRadio.Api/)
+![Nuget](https://img.shields.io/nuget/dt/Orneholm.SverigesRadio.Api)
 [![Live demo](https://img.shields.io/static/v1?label=Demo&message=Try%20out%20the%20live%20demo&color=#17547a)](https://radiodemo.orneholm.com/)
 
 Orneholm.SverigesRadio is an unofficial wrapper of Sveriges Radio Open API (v2) for .NET. Built in C# targeting .NET Standard 2.0. Based on the public [documentation](https://sverigesradio.se/api/documentation/v2/).
 
-### [Orneholm.PEAccountingNet](https://github.com/PeterOrneholm/Orneholm.PEAccountingNet)
+### [Orneholm.PEAccountingNet](https://github.com/PeterOrneholm/Orneholm.PEAccounting)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://dev.azure.com/orneholm/Orneholm.PEAccounting/_apis/build/status/Orneholm.PEAccounting?branchName=master)](https://dev.azure.com/orneholm/Orneholm.PEAccounting/_build/latest?definitionId=4&branchName=master)
 [![NuGet](https://img.shields.io/nuget/v/Orneholm.PEAccountingNet.svg)](https://www.nuget.org/packages/Orneholm.PEAccountingNet/)
+![Nuget](https://img.shields.io/nuget/dt/Orneholm.PEAccountingNet)
 
 Unofficial wrapper of the [p:e accounting](https://www.accounting.pe/) API for .NET. Built in C# targeting .NET Standard 2.0. Based on the public [documentation](https://my.accounting.pe/api/v1/doc).
 
@@ -43,6 +45,7 @@ Unofficial wrapper of the [p:e accounting](https://www.accounting.pe/) API for .
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://dev.azure.com/orneholm/Orneholm.ApplicationInsights/_apis/build/status/Orneholm.ApplicationInsights?branchName=master)](https://dev.azure.com/orneholm/Orneholm.ApplicationInsights/_build/latest?definitionId=5&branchName=master)
 [![NuGet](https://img.shields.io/nuget/v/Orneholm.ApplicationInsights.HealthChecks.svg)](https://www.nuget.org/packages/Orneholm.ApplicationInsights.HealthChecks/)
+![Nuget](https://img.shields.io/nuget/dt/Orneholm.ApplicationInsights.HealthChecks)
 
 ASP.NET Core Health check publisher for Azure Application Insights that will publish the health check reports as availibility telemetry, including details and data.
 As described in the [Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-monitor/app/monitor-web-app-availability#alert-on-custom-analytics-queries) custom availibility telemetry does not show up in all dashboards, but you can easily trigger alerts on them and show data by custom Log Analytics queries.
