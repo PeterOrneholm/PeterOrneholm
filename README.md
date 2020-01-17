@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-@PeterOrneholm-blue.svg?logo=twitter)](https://twitter.com/PeterOrneholm)
 
-Here is a brief summary of me and the open source projects I'm involved with.
+Here is a brief summary of me and the open source projects I'm maintaining.
 
 ## Libraries
 
@@ -38,7 +38,7 @@ Orneholm.SverigesRadio is an unofficial wrapper of Sveriges Radio Open API (v2) 
 
 Unofficial wrapper of the [p:e accounting](https://www.accounting.pe/) API for .NET. Built in C# targeting .NET Standard 2.0. Based on the public [documentation](https://my.accounting.pe/api/v1/doc).
 
-### [Orneholm.ApplicationInsights]((https://github.com/PeterOrneholm/Orneholm.ApplicationInsights)
+### [Orneholm.ApplicationInsights](https://github.com/PeterOrneholm/Orneholm.ApplicationInsights)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://dev.azure.com/orneholm/Orneholm.ApplicationInsights/_apis/build/status/Orneholm.ApplicationInsights?branchName=master)](https://dev.azure.com/orneholm/Orneholm.ApplicationInsights/_build/latest?definitionId=5&branchName=master)
