@@ -86,5 +86,5 @@ I'm an IT-consultant and Microsoft Azure MVP who loves to explore life. Using th
 - :newspaper: Blog: [peter.orneholm.com](https://peter.orneholm.com/)
 - :bird: Twitter: [@PeterOrneholm](https://twitter.com/PeterOrneholm)
 - :camera: Instagram: [@PeterOrneholm](https://www.instagram.com/peterorneholm/)
-- :handshaking: LinekdIn: [Peter Örneholm](https://www.linkedin.com/in/peterorneholm/)
-- :loudspekaer: Sessionize: [PeterOrneholm](https://sessionize.com/peterorneholm)
+- :wave: LinekdIn: [Peter Örneholm](https://www.linkedin.com/in/peterorneholm/)
+- :loudspeaker: Sessionize: [PeterOrneholm](https://sessionize.com/peterorneholm)
