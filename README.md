@@ -102,6 +102,7 @@ I'm an IT-consultant and Microsoft Azure MVP who loves to explore life. Using th
 
 - :email: peter@orneholm.com
 - :phone: +46 738 031398
+- :office: Employer: [Active Solution](https://www.activesolution.se/)
 - :newspaper: Blog: [peter.orneholm.com](https://peter.orneholm.com/)
 - :bird: Twitter: [@PeterOrneholm](https://twitter.com/PeterOrneholm)
 - :camera: Instagram: [@PeterOrneholm](https://www.instagram.com/peterorneholm/)
