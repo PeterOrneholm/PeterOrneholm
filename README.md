@@ -75,6 +75,13 @@ A jukebox enhanced with cognitive skills.
 
 This site transcribes news episodes from [Swedish Radio](https://sverigesradio.se/) and makes them searchable. It uses [Azure Cognitive Services](https://www.microsoft.com/cognitive-services) for Speech-to-Text, Text Analytics and Text-to-Speech.
 
+### [Cognitive Workbench - Interactive workbench to try out Azure Cognitive Services](https://github.com/PeterOrneholm/cognitive-workbench)
+
+[![Build Status](https://dev.azure.com/orneholm/CognitiveWorkbench/_apis/build/status/CognitiveWorkbench?branchName=master)](https://dev.azure.com/orneholm/CognitiveWorkbench/_build/latest?definitionId=11&branchName=master)
+[![Live demo](https://img.shields.io/static/v1?label=Demo&message=Try%20out%20the%20live%20demo&color=#17547a)](https://cognitive-workbench.azurewebsites.net/)
+
+A site to learn about and demo the capabilities of Azure Cognitive Services. Main focus is on Vision, but more areas might be covered in the future.
+
 ### [Swedish.IdentityInfo.net](https://github.com/PeterOrneholm/IdentityInfo.net)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
