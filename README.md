@@ -4,6 +4,24 @@
 
 Here is a brief summary of me and the open source projects I'm maintaining.
 
+## Bio
+
+*Peter Örneholm*
+
+I'm an IT-consultant and Microsoft Azure MVP who loves to explore life. Using the power of Azure is my passion. I have over 10 years of experience in Microsoft related technologies and currently works as an IT consultant at Active Solution in Stockholm helping companies achieve more using modern web and cloud technologies.
+
+## Contact
+
+- :email: peter@orneholm.com
+- :phone: +46 738 031398
+- :office: Employer: [Active Solution](https://www.activesolution.se/)
+- :newspaper: Blog: [peter.orneholm.com](https://peter.orneholm.com/)
+- :bird: Twitter: [@PeterOrneholm](https://twitter.com/PeterOrneholm)
+- :camera: Instagram: [@PeterOrneholm](https://www.instagram.com/peterorneholm/)
+- :wave: LinekdIn: [Peter Örneholm](https://www.linkedin.com/in/peterorneholm/)
+- :loudspeaker: Sessionize: [PeterOrneholm](https://sessionize.com/peterorneholm)
+
+
 ## Libraries
 
 ### [ActiveLogin.Authentication](https://github.com/ActiveLogin/ActiveLogin.Authentication)
@@ -89,22 +107,3 @@ A site to learn about and demo the capabilities of Azure Cognitive Services. Mai
 [![Live demo](https://img.shields.io/static/v1?label=Demo&message=Try%20out%20the%20live%20demo&color=#17547a)](https://swedish.identityinfo.net/)
 
 Swedish Identity Info is a site that aims to provide info and data regarding identities in Sweden like Personal Identity Number (personnummer) and Coordination Number (samordningsnummer).
-
----
-
-## Bio
-
-*Peter Örneholm*
-
-I'm an IT-consultant and Microsoft Azure MVP who loves to explore life. Using the power of Azure is my passion. I have over 10 years of experience in Microsoft related technologies and currently works as an IT consultant at Active Solution in Stockholm helping companies achieve more using modern web and cloud technologies.
-
-## Contact
-
-- :email: peter@orneholm.com
-- :phone: +46 738 031398
-- :office: Employer: [Active Solution](https://www.activesolution.se/)
-- :newspaper: Blog: [peter.orneholm.com](https://peter.orneholm.com/)
-- :bird: Twitter: [@PeterOrneholm](https://twitter.com/PeterOrneholm)
-- :camera: Instagram: [@PeterOrneholm](https://www.instagram.com/peterorneholm/)
-- :wave: LinekdIn: [Peter Örneholm](https://www.linkedin.com/in/peterorneholm/)
-- :loudspeaker: Sessionize: [PeterOrneholm](https://sessionize.com/peterorneholm)
