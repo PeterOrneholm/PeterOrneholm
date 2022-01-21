@@ -8,7 +8,7 @@ Here is a brief summary of me and the open source projects I'm maintaining.
 
 *Peter Örneholm*
 
-I'm an IT-consultant and Microsoft Azure MVP who loves to explore life. Using the power of Azure is my passion. I have over 10 years of experience in Microsoft related technologies and currently works as an IT consultant at Active Solution in Stockholm helping companies achieve more using modern web and cloud technologies.
+I'm an IT-consultant and Microsoft AI MVP who loves to explore life. Using the power of Azure is my passion. I have over 10 years of experience in Microsoft related technologies and currently works as an IT consultant at Active Solution in Stockholm helping companies achieve more using modern web and cloud technologies.
 
 ## Contact
 
