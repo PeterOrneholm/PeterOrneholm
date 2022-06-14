@@ -14,7 +14,7 @@ I'm an IT-consultant and Microsoft AI MVP who loves to explore life. Using the p
 
 - :email: peter@orneholm.com
 - :phone: +46 738 031398
-- :office: Employer: [Active Solution](https://www.activesolution.se/)
+- :office: Employer:  [@ActiveSolution](https://github.com/ActiveSolution) ([https://www.activesolution.se/](https://www.activesolution.se/))
 - :newspaper: Blog: [peter.orneholm.com](https://peter.orneholm.com/)
 - :bird: Twitter: [@PeterOrneholm](https://twitter.com/PeterOrneholm)
 - :camera: Instagram: [@PeterOrneholm](https://www.instagram.com/peterorneholm/)
