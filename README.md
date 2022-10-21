@@ -18,7 +18,7 @@ I'm an IT-consultant and Microsoft AI MVP who loves to explore life. Using the p
 - :newspaper: Blog: [peter.orneholm.com](https://peter.orneholm.com/)
 - :bird: Twitter: [@PeterOrneholm](https://twitter.com/PeterOrneholm)
 - :camera: Instagram: [@PeterOrneholm](https://www.instagram.com/peterorneholm/)
-- :wave: LinekdIn: [Peter Örneholm](https://www.linkedin.com/in/peterorneholm/)
+- :wave: LinkedIn: [Peter Örneholm](https://www.linkedin.com/in/peterorneholm/)
 - :loudspeaker: Sessionize: [PeterOrneholm](https://sessionize.com/peterorneholm)
 
 
