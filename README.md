@@ -47,7 +47,6 @@ ActiveLogin.Identity provides parsing and validation of Swedish identities such 
 [![Build Status](https://dev.azure.com/orneholm/Orneholm.SverigesRadio/_apis/build/status/Orneholm.SverigesRadio?branchName=master)](https://dev.azure.com/orneholm/Orneholm.SverigesRadio/_build/latest?definitionId=3&branchName=master)
 [![NuGet](https://img.shields.io/nuget/v/Orneholm.SverigesRadio.Api.svg)](https://www.nuget.org/packages/Orneholm.SverigesRadio.Api/)
 ![Nuget](https://img.shields.io/nuget/dt/Orneholm.SverigesRadio.Api)
-[![Live demo](https://img.shields.io/static/v1?label=Demo&message=Try%20out%20the%20live%20demo&color=#17547a)](https://radiodemo.orneholm.com/)
 
 Orneholm.SverigesRadio is an unofficial wrapper of Sveriges Radio Open API (v2) for .NET. Built in C# targeting .NET Standard 2.0. Based on the public [documentation](https://sverigesradio.se/api/documentation/v2/).
 
@@ -60,38 +59,7 @@ Orneholm.SverigesRadio is an unofficial wrapper of Sveriges Radio Open API (v2) 
 
 Unofficial wrapper of the [p:e accounting](https://www.accounting.pe/) API for .NET. Built in C# targeting .NET Standard 2.0. Based on the public [documentation](https://my.accounting.pe/api/v1/doc).
 
-### [Orneholm.ApplicationInsights](https://github.com/PeterOrneholm/Orneholm.ApplicationInsights)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://dev.azure.com/orneholm/Orneholm.ApplicationInsights/_apis/build/status/Orneholm.ApplicationInsights?branchName=master)](https://dev.azure.com/orneholm/Orneholm.ApplicationInsights/_build/latest?definitionId=5&branchName=master)
-[![NuGet](https://img.shields.io/nuget/v/Orneholm.ApplicationInsights.HealthChecks.svg)](https://www.nuget.org/packages/Orneholm.ApplicationInsights.HealthChecks/)
-![Nuget](https://img.shields.io/nuget/dt/Orneholm.ApplicationInsights.HealthChecks)
-
-ASP.NET Core Health check publisher for Azure Application Insights that will publish the health check reports as availibility telemetry, including details and data.
-As described in the [Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-monitor/app/monitor-web-app-availability#alert-on-custom-analytics-queries) custom availibility telemetry does not show up in all dashboards, but you can easily trigger alerts on them and show data by custom Log Analytics queries.
-
 ## Sites
-
-### [BirdOrNot.net - Is it a bird or not?](https://github.com/PeterOrneholm/BirdOrNot.net)
-
-[![Build Status](https://dev.azure.com/orneholm/BirdOrNot.net/_apis/build/status/BirdOrNot.net?branchName=master)](https://dev.azure.com/orneholm/BirdOrNot.net/_build/latest?definitionId=7&branchName=master)
-[![Live demo](https://img.shields.io/static/v1?label=Demo&message=Try%20out%20the%20live%20demo&color=#17547a)](https://birdornot.net/)
-
-BirdOrNot.net uses the Artificial Intelligence (AI) powered object detection capability in Azure Cognitive Services to find out if the image contains a bird and, in some cases, it even finds out what species it is.
-
-### [CogBox.net - A jukebox enhanced with cognitive skills](https://github.com/PeterOrneholm/CogBox.net)
-
-[![Build Status](https://dev.azure.com/orneholm/CogBox.net/_apis/build/status/CogBox.net?branchName=master)](https://dev.azure.com/orneholm/CogBox.net/_build/latest?definitionId=9&branchName=master)
-[![Live demo](https://img.shields.io/static/v1?label=Demo&message=Try%20out%20the%20live%20demo&color=#17547a)](https://CogBox.net/)
-
-A jukebox enhanced with cognitive skills.
-
-### [RadioText.net - Making news from Swedish Radio searchable!](https://github.com/PeterOrneholm/RadioText.net)
-
-[![Build Status](https://dev.azure.com/orneholm/RadioText.net/_apis/build/status/RadioText.net?branchName=master)](https://dev.azure.com/orneholm/RadioText.net/_build/latest?definitionId=10&branchName=master)
-[![Live demo](https://img.shields.io/static/v1?label=Demo&message=Try%20out%20the%20live%20demo&color=#17547a)](https://RadioText.net/)
-
-This site transcribes news episodes from [Swedish Radio](https://sverigesradio.se/) and makes them searchable. It uses [Azure Cognitive Services](https://www.microsoft.com/cognitive-services) for Speech-to-Text, Text Analytics and Text-to-Speech.
 
 ### [Cognitive Workbench - Interactive workbench to try out Azure Cognitive Services](https://github.com/PeterOrneholm/cognitive-workbench)
 
