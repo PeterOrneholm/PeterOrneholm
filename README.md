@@ -61,13 +61,6 @@ Unofficial wrapper of the [p:e accounting](https://www.accounting.pe/) API for .
 
 ## Sites
 
-### [Cognitive Workbench - Interactive workbench to try out Azure Cognitive Services](https://github.com/PeterOrneholm/cognitive-workbench)
-
-[![Build Status](https://dev.azure.com/orneholm/CognitiveWorkbench/_apis/build/status/CognitiveWorkbench?branchName=master)](https://dev.azure.com/orneholm/CognitiveWorkbench/_build/latest?definitionId=11&branchName=master)
-[![Live demo](https://img.shields.io/static/v1?label=Demo&message=Try%20out%20the%20live%20demo&color=#17547a)](https://cognitive-workbench.azurewebsites.net/)
-
-A site to learn about and demo the capabilities of Azure Cognitive Services. Main focus is on Vision, but more areas might be covered in the future.
-
 ### [Swedish.IdentityInfo.net](https://github.com/PeterOrneholm/IdentityInfo.net)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
