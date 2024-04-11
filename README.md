@@ -44,7 +44,7 @@ ActiveLogin.Identity provides parsing and validation of Swedish identities such 
 ### [Orneholm.SverigesRadio](https://github.com/PeterOrneholm/Orneholm.SverigesRadio)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://dev.azure.com/orneholm/Orneholm.SverigesRadio/_apis/build/status/Orneholm.SverigesRadio?branchName=master)](https://dev.azure.com/orneholm/Orneholm.SverigesRadio/_build/latest?definitionId=3&branchName=master)
+[![Build Status](https://github.com/PeterOrneholm/Orneholm.SverigesRadio/actions/workflows/build_and_publish.yml/badge.svg)](https://github.com/PeterOrneholm/Orneholm.SverigesRadio/actions/workflows/build_and_publish.yml)
 [![NuGet](https://img.shields.io/nuget/v/Orneholm.SverigesRadio.Api.svg)](https://www.nuget.org/packages/Orneholm.SverigesRadio.Api/)
 ![Nuget](https://img.shields.io/nuget/dt/Orneholm.SverigesRadio.Api)
 
@@ -53,7 +53,7 @@ Orneholm.SverigesRadio is an unofficial wrapper of Sveriges Radio Open API (v2) 
 ### [Orneholm.PEAccountingNet](https://github.com/PeterOrneholm/Orneholm.PEAccounting)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://dev.azure.com/orneholm/Orneholm.PEAccounting/_apis/build/status/Orneholm.PEAccounting?branchName=master)](https://dev.azure.com/orneholm/Orneholm.PEAccounting/_build/latest?definitionId=4&branchName=master)
+[![Build Status](https://github.com/PeterOrneholm/Orneholm.PEAccounting/actions/workflows/build_and_publish.yml/badge.svg)](https://github.com/PeterOrneholm/Orneholm.PEAccounting/actions/workflows/build_and_publish.yml)
 [![NuGet](https://img.shields.io/nuget/v/Orneholm.PEAccountingNet.svg)](https://www.nuget.org/packages/Orneholm.PEAccountingNet/)
 ![Nuget](https://img.shields.io/nuget/dt/Orneholm.PEAccountingNet)
 
@@ -64,7 +64,6 @@ Unofficial wrapper of the [p:e accounting](https://www.accounting.pe/) API for .
 ### [Swedish.IdentityInfo.net](https://github.com/PeterOrneholm/IdentityInfo.net)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://dev.azure.com/orneholm/IdentityInfo.net/_apis/build/status/IdentityInfo.net?branchName=master)](https://dev.azure.com/orneholm/IdentityInfo.net/_build/latest?definitionId=6&branchName=master)
 [![Live demo](https://img.shields.io/static/v1?label=Demo&message=Try%20out%20the%20live%20demo&color=#17547a)](https://swedish.identityinfo.net/)
 
 Swedish Identity Info is a site that aims to provide info and data regarding identities in Sweden like Personal Identity Number (personnummer) and Coordination Number (samordningsnummer).
